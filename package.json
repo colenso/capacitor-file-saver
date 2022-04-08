@@ -1,0 +1,10 @@
+{
+  "name": "capacitor-file-saver",
+  "version": "1.0.0",
+  "description": "Saves a javsscript blob/file object to the device",
+  "main": "index.js",
+  "repository": "git@github.com:colenso/capacitor-file-saver.git",
+  "author": "colenso",
+  "license": "MIT",
+  "private": false
+}
